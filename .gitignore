@@ -1,5 +1,7 @@
 # Local .terraform directories
 **/.terraform/*
+README.priv
+variables*
 
 # .tfstate files
 *.tfstate
